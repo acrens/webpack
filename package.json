@@ -1,0 +1,20 @@
+{
+  "name": "webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "js/index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "acrens",
+  "license": "MIT",
+  "devDependencies": {
+    "css-loader": "^0.21.0",
+    "style-loader": "^0.13.0",
+    "webpack": "^1.13.1",
+    "webpack-dev-server": "^1.14.1"
+  }
+}
